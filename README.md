@@ -4,7 +4,7 @@
 
 My name is Vitória Beatriz and I'm an electrical engineering student from Brazil.
 
-I work primarily in hardware design for CubeSat (a type of small satellites) applications but I also worked on telecommunication software.
+I work primarily in hardware design for CubeSat (a type of small satellites 🛰️) applications but I also worked on telecommunication software📡.
 
 ###
 
@@ -23,3 +23,13 @@ I work primarily in hardware design for CubeSat (a type of small satellites) app
 - LaTeX;  
 - KiCAD.  
 
+###
+
+## Here are some of my projects...
+🔧 (under construction) 🔨
+- ExpLoRa; 
+- SlCam;
+- Battery Module for CubeSat;
+- Chorus Pedal;
+- FM-receiver;
+- Electronics Project: Level 2;
