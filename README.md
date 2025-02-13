@@ -1,8 +1,10 @@
-# Hey 👋 What's up?
+# Hello! 👋 Welcome to my spot.
 
 ###
 
-My name is Vitória Beatriz and I'm an electrical engineering student, from Brazil.
+My name is Vitória Beatriz and I'm an electrical engineering student from Brazil.
+
+I work primarily in hardware design for CubeSat (a type of small satellites) applications but I also worked on telecommunication software.
 
 ###
 
@@ -10,13 +12,13 @@ My name is Vitória Beatriz and I'm an electrical engineering student, from Braz
 
 ###
 
-✨ I'm interested in...  
+🌌 I'm interested in...  
 - hardware design;  
 - embedded systems;  
 - telecommunications.  
 
-✨ On a daily basis I use...  
-- Linux (Fedora);  
+🧙‍♀️ On a daily basis I use...  
+- Linux 🐧 (Fedora) ;  
 - Vim;  
 - LaTeX;  
 - KiCAD.  
