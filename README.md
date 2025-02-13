@@ -1,26 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
 ###
 
-<p align="left">My name is Vitória Beatriz and I'm an electrical egineering student, from Brazil.</p>
+My name is Vitória Beatriz and I'm an electrical engineering student, from Brazil.
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
-<p align="left">✨ I'm interested in...<br>
-hardware design;
-embedded systems;
-telecommunications.<br></p>
+✨ I'm interested in...  
+- hardware design;  
+- embedded systems;  
+- telecommunications.  
 
-
-<p align="left">✨On a daily basis I use...<br>
-linux (Fedora);
-vim;
-latex;
-KiCAD.
-  
-###
+✨ On a daily basis I use...  
+- Linux (Fedora);  
+- Vim;  
+- LaTeX;  
+- KiCAD.  
 
