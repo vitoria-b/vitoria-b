@@ -10,10 +10,17 @@
 
 ###
 
-<p align="left">✨ I'm interested in hardware design, embedded systems and telecommunications.<br></p>
+<p align="left">✨ I'm interested in...<br>
+hardware design;
+embedded systems;
+telecommunications.<br></p>
 
+
+<p align="left">✨On a daily basis I use...<br>
+linux (Fedora);
+vim;
+latex;
+KiCAD.
+  
 ###
 
-<h2 align="left">I code with</h2>
-
-###
