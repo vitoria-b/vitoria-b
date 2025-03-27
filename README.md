@@ -14,7 +14,8 @@ I work primarily in hardware design for CubeSat (a type of small satellites 🛰
 
 🌌 I'm interested in...  
 - hardware design;  
-- embedded systems;  
+- embedded systems;
+- digital systems;
 - telecommunications.  
 
 🧙‍♀️ On a daily basis I use...  
