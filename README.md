@@ -34,3 +34,4 @@ I work primarily in hardware design for CubeSat (a type of small satellites 🛰
 - Chorus Pedal;
 - FM-receiver;
 - Electronics Project: Level 2;
+- PET UP Game;
