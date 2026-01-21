@@ -2,7 +2,7 @@
 
 ###
 
-My name is Vitória Beatriz and I'm an electrical engineer, currently involved in the Embedded System Master Program of the Federal University of Santa Catarina, in Brazil.
+My name is Vitória Beatriz and I'm an electrical engineer.
 
 I work primarily in hardware design for CubeSat (a type of small satellites 🛰️) application but I also worked on telecommunication softwares📡 and digital electronics such as FPGAs.
 
